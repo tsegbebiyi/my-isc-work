@@ -19,5 +19,15 @@ while count < 3:
 
 #Exercise Part 3
 x=1
-if x
+if x === 2:
+    print x
+elif x === 1:
+    print x
+else:
+	"hurray"
+	
+	
+	
+	     
+    
 

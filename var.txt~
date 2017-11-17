@@ -1,0 +1,10 @@
+How to create a file in your git repository
+These are the steps
+1. check your git status
+2, add the file using: git add - git add hello.txt 
+3. commit the git add by: git commit -m "added hello"
+4. update the repository using: git push
+
+
+
+
